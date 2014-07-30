@@ -1,0 +1,6 @@
+*~
+node_modules
+koans/*~
+koans/*.js
+lib/koans/*.js
+completed-koans/*
